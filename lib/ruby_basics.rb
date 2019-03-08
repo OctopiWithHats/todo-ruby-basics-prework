@@ -6,11 +6,11 @@ def assign_variable(value)
   value
 end
 
-def argue(argument)
-  argument
+def argue(phrase)
+  phrase
 end
 
-def greeting
+def greeting(name, )
 
 end
 
